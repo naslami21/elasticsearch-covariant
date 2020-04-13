@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "02 - Azure Automation",
+    "Path": "Imports/02 - Azure Automation.docx",
+    "Type": "docx"
+  },
+  {
+    "Name": "exportedDossier",
+    "Path": "Imports/exportedDossier.xml",
+    "Type": "xml"
+  },
+  {
+    "Name": "The Full Stack Developer",
+    "Path": "Imports/The Full Stack Developer.pdf",
+    "Type": "pdf"
+  },{
+    "Name": "translations",
+    "Path": "Imports/translations.json",
+    "Type": "json"
+  }
+]
